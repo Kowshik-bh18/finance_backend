@@ -299,7 +299,7 @@ http://127.0.0.1:8000/swagger/
 
 ## Acknowledgement
 
-This project was developed as part of a backend engineering assessment for the **Backend Developer Intern role at [Zorvyn FinTech Pvt. Ltd.](https://zorvyn.com/)**.
+This project was developed as part of a backend engineering assessment for the **Backend Developer Intern role at [Zorvyn FinTech Pvt. Ltd.](https://zorvyn.io/)**.
 
 It demonstrates practical skills in:
 
@@ -308,7 +308,7 @@ It demonstrates practical skills in:
 * Data modeling and persistence
 * Building insight-driven analytics systems
 
-I would like to thank the team at **[Zorvyn FinTech Pvt. Ltd.](https://zorvyn.com/)** for providing this opportunity to apply backend development concepts in a real-world scenario and showcase my engineering approach.
+I would like to thank the team at **[Zorvyn FinTech Pvt. Ltd.](https://zorvyn.io/)** for providing this opportunity to apply backend development concepts in a real-world scenario and showcase my engineering approach.
 
 ---
 
