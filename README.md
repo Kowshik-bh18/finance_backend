@@ -299,16 +299,16 @@ http://127.0.0.1:8000/swagger/
 
 ## Acknowledgement
 
-This project was developed as part of a backend engineering assessment for the **Backend Developer Intern role at Zorvyn FinTech Pvt. Ltd.**
+This project was developed as part of a backend engineering assessment for the **Backend Developer Intern role at [Zorvyn FinTech Pvt. Ltd.](https://zorvyn.com/)**.
 
 It demonstrates practical skills in:
 
-- API design and backend architecture
-- Role-based access control (RBAC)
-- Data modeling and persistence
-- Building insight-driven analytics systems
+* API design and backend architecture
+* Role-based access control (RBAC)
+* Data modeling and persistence
+* Building insight-driven analytics systems
 
-I would like to thank the team at **Zorvyn FinTech Pvt. Ltd.** for providing this opportunity to apply backend development concepts in a real-world scenario and showcase my engineering approach.
+I would like to thank the team at **[Zorvyn FinTech Pvt. Ltd.](https://zorvyn.com/)** for providing this opportunity to apply backend development concepts in a real-world scenario and showcase my engineering approach.
 
 ---
 
